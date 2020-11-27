@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/app/bcrec-pwa-1/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/app/bcrec-pwa-1/static/js/main.914db99f.chunk.js",
-    "main.js.map": "/app/bcrec-pwa-1/static/js/main.914db99f.chunk.js.map",
+    "main.js": "/app/bcrec-pwa-1/static/js/main.ce14a5db.chunk.js",
+    "main.js.map": "/app/bcrec-pwa-1/static/js/main.ce14a5db.chunk.js.map",
     "runtime-main.js": "/app/bcrec-pwa-1/static/js/runtime-main.a8ce1ab1.js",
     "runtime-main.js.map": "/app/bcrec-pwa-1/static/js/runtime-main.a8ce1ab1.js.map",
     "static/js/2.23554d07.chunk.js": "/app/bcrec-pwa-1/static/js/2.23554d07.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a8ce1ab1.js",
     "static/js/2.23554d07.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.914db99f.chunk.js"
+    "static/js/main.ce14a5db.chunk.js"
   ]
 }
